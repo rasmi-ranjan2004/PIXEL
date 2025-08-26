@@ -1,6 +1,5 @@
-<div align="center">
 # Pixel AI: Voice-Activated Personal Assistant
-</div>
+
 
 Pixel AI is a Python-based voice-activated personal assistant that responds to voice commands, performs web searches, plays YouTube videos, provides health advice, tells jokes, and much more — all through natural voice interaction.
 
