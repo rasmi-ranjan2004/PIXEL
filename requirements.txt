@@ -1,0 +1,12 @@
+speechrecognition
+pyttsx3
+wikipedia
+google-generativeai
+pyjokes
+pywhatkit
+inflect
+youtube-search
+yt-dlp
+plyer
+termcolor
+yaspin
