@@ -45,7 +45,7 @@ def show(query,delay=0.01):
 
 def gemini_api(query):
     try:
-        client = genai.Client(api_key="AIzaSyDIuUg4_a-DN8Va61DdpZNnUpvphDB4Lek")
+        client = genai.Client(api_key="-------------------------------------------------")
         if not query.strip():
             raise ValueError("Query is empty. Cannot process the request.")
         response = client.models.generate_content(model="gemini-2.0-flash", contents=query + " within 1-2 sentences")
@@ -566,4 +566,5 @@ while True:
         handle_query(query)
     except Exception as e:
         show(colored(f"An unexpected error occurred: {str(e)}", "red"))
+
         speak("An unexpected error occurred. Please try again.")
