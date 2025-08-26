@@ -5,6 +5,7 @@ Pixel AI is a Python-based voice-activated personal assistant that responds to v
 
 
 ✨ Features
+
 🎤 Voice-Activated: Wake word detection ("Pixel", "Hello Pixel")
 
 🌐 Web Integration: Google search, Wikipedia queries, website navigation
