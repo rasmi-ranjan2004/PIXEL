@@ -1,12 +1,8 @@
 # Pixel AI: Voice-Activated Personal Assistant
-<div align="center">
-https://img.shields.io/badge/Python-3.10%252B-blue
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Status-Active-brightgreen
-https://img.shields.io/badge/Contributions-Welcome-orange
 
-</div>
+
 Pixel AI is a Python-based voice-activated personal assistant that responds to voice commands, performs web searches, plays YouTube videos, provides health advice, tells jokes, and much more — all through natural voice interaction.
+
 
 ✨ Features
 🎤 Voice-Activated: Wake word detection ("Pixel", "Hello Pixel")
