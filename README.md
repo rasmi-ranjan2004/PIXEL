@@ -33,16 +33,7 @@ Say one of the wake phrases:
 
 "Hey Pixel"
 
-"Hi Pixel"
-
-# Available Commands
-  Command Type	              Examples
-    Web Search	        "Search Python on Google", "Who is Albert Einstein"
-    Wikipedia	          "Search artificial intelligence on Wikipedia"
-    YouTube	            "Play shape of you on YouTube", "Download Python tutorial"
-    Health	            "I am suffering from fever", "I have a headache"
-    Utilities	          "What's the time", "Tell me a joke", "Open Google"
-    Conversation	      "How are you", "What can you do", "Good morning"
+"Hi Pixel" 
 
 # 🛠️ Technology Stack
 Python 3.10+ - Core programming language
